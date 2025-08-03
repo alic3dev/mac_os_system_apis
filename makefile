@@ -15,4 +15,3 @@ __clean/%: .always
 	cd "${patsubst __clean/%,%,$@}" && make clean
 
 .always:
-

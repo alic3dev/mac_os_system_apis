@@ -1,0 +1,61 @@
+#ifndef __input_key_logging_keycodes_h
+#define __input_key_logging_keycodes_h
+
+#define keycode_a 0
+#define keycode_s 1
+#define keycode_d 2
+#define keycode_f 3
+#define keycode_h 4
+#define keycode_g 5
+#define keycode_z 6
+#define keycode_x 7
+#define keycode_c 8
+#define keycode_v 9
+#define keycode_b 11
+#define keycode_q 12
+#define keycode_w 13
+#define keycode_e 14
+#define keycode_r 15
+#define keycode_y 16
+#define keycode_t 17
+#define keycode_1 18
+#define keycode_2 19
+#define keycode_3 20
+#define keycode_4 21
+#define keycode_6 22
+#define keycode_5 23
+#define keycode_equals 24
+#define keycode_9 25
+#define keycode_7 26
+#define keycode_minus 27
+#define keycode_8 28
+#define keycode_0 29
+#define keycode_closing_square_bracket 30
+#define keycode_o 31
+#define keycode_u 32
+#define keycode_opening_square_bracket 33
+#define keycode_i 34
+#define keycode_p 35
+#define keycode_return 36
+#define keycode_l 37
+#define keycode_j 38
+#define keycode_single_quote 39
+#define keycode_k 40
+#define keycode_semi_colon 41
+#define keycode_back_slash 42
+#define keycode_comma 43
+#define keycode_slash 44
+#define keycode_n 45
+#define keycode_m 46
+#define keycode_period 47
+#define keycode_tab 48
+#define keycode_space 49
+#define keycode_back_tick 50
+#define keycode_delete 51
+#define keycode_esc 53
+#define keycode_left_arrow 123
+#define keycode_right_arrow 124
+#define keycode_down_arrow 125
+#define keycode_up_arrow 126
+
+#endif

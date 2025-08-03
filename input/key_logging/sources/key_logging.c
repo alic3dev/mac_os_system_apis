@@ -16,9 +16,9 @@ void handler_interrupt() {
 }
 
 struct __CGEvent* tap_event(
-  struct __CGEventTapProxy * proxy_tap_event,
+  struct __CGEventTapProxy* proxy_tap_event,
   CGEventType type_event,
-  struct __CGEvent *event,
+  struct __CGEvent* event,
   void* data_user
 ) {
   if (type_event == kCGEventKeyDown) {
